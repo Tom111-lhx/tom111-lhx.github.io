@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoxi LI"
-description              : #"Personal academic homepage of Haoxi LI. "
+# description              : #"Personal academic homepage of Haoxi LI. "
 repository               : "Tom111-lhx/tom111-lhx.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Haoxi LI"
-  avatar           : "images/profile.png"
+  avatar           : "images/profile.jpg"
   bio              : "PhD Student, The Hong Kong University of Science and Technology"
   location         : "Hong Kong, China"
   employer         :
