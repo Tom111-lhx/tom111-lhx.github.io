@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoxi LI"
-description              : "Personal academic homepage of Haoxi LI. "
+description              : #"Personal academic homepage of Haoxi LI. "
 repository               : "Tom111-lhx/tom111-lhx.github.io"
 google_scholar_stats_use_cdn : true
 
